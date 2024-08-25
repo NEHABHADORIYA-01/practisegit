@@ -5,7 +5,7 @@ def personal_info():
     age=input("Enter your age: ")
     number=input("Enter your number: ")
     address=input("Enter your address")
-    print(f"your personal information is:\n id: {id}\n name:{name}\n age:{age}\n number:{number} ")
+    print(f"your personal information is:\n id: {id}\n name:{name}\n age:{age}\n number:{number}\n address:{address}\n")
 
 personal_info()
 
