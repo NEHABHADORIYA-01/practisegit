@@ -1,3 +1,4 @@
+#creating a class for person's information
 class person:
     def __init__(self,id,name,age,number):
         self.id=id
