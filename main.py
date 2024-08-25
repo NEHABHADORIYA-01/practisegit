@@ -8,3 +8,5 @@ def personal_info():
     print(f"your personal information is:\n id: {id}\n name:{name}\n age:{age}\n number:{number}\n pin_code:{pin_code}")
 
 personal_info()
+
+
